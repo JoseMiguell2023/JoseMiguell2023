@@ -2,7 +2,7 @@
 
 <a href="https://github.com/JoseMiguell2023"><img src="https://www.gcreddy.com/wp-content/uploads/2018/08/Manual-Testing.jpg" /></a>
 
-- 👋 Hi, I’m @JoseMiguell2023.
+- 👋 Hi, I’m @JoseMiguel Acero.
 - 👀 I’m interested to looking for a job.
 - 🌱 I’m currently learning QA Tester and basic programming skills.
 - 💞️ I’m looking to collaborate on IT companies.
