@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<a href="https://media.licdn.com/dms/image/D4D16AQHWOb5gtPzazA/profile-displaybackgroundimage-shrink_350_1400/0/1700916373324?e=1706140800&v=beta&t=0ZiiSxbZAXj7GVegjZ3UI9JYf24fe-OPa4o9qd9n5Kw" /></a>
+<a href="https://raw.githubusercontent.com/JoseMiguell2023/Mi_Portfolio/main/3.png?token=GHSAT0AAAAAACI5IXRP3L727CRSAPPPFFE6ZLCCN6A" /></a>
 
 # 🐞Acerca de mí:
 -👋 ¡Hola!, Mi nombre es Jose Miguel y soy QA tester principiante..<br>-👀 Tengo muchas ganas de encontrar trabajo en el actual campo y seguir adelante.<br>-🌱 Actualmente estoy estudiando en la escuela en línea GOIT como ingeniero de control de calidad (ya estoy en la recta final de esta formacion)..<br> 💞️ Busco colaborar en empresas TI.<br>-📄 Conoce [Mis Proyectos:] <br>-😎 Mi frase es "Nunca es demasiado tarde, nunca es demasiado tarde para empezar de nuevo, nunca es demasiado tarde para ser feliz"<br>
