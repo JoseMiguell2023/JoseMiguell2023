@@ -10,8 +10,7 @@
 # 🕵🏻‍♀️Mis Proyectos/Experiencia:
 
 
-<p align="left">
-<a href="https://github.com/JoseMiguell2023/Bug-web-Buggy-Cars-Rating"><img src="https://buggy.justtestit.org/img/header-car.gif"  height="60" width="100" /></a>
+Próximamente.....
 
     
 #  <a href="https://github.com/JoseMiguell2023"><img src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" height="40" width="40" /></a> Contacta conmigo:
