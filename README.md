@@ -9,7 +9,8 @@
 
 # 🕵🏻‍♀️Mis Proyectos/Experiencia:
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=1A2FF7&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=Pr%C3%B3ximamente......" alt="Typing SVG" /></a>
+<p align="left">
+<a href="https://github.com/JoseMiguell2023/Bug-web-Buggy-Cars-Rating"><img src="https://buggy.justtestit.org/img/header-car.gif"  height="60" width="100" /></a>
 
     
 #  <a href="https://github.com/JoseMiguell2023"><img src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" height="40" width="40" /></a> Contacta conmigo:
