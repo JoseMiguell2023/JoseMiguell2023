@@ -16,7 +16,7 @@
     
 #  <a href="https://github.com/JoseMiguell2023"><img src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" height="40" width="40" /></a> Contacta conmigo:
 <p align="left">
-  <a href="mailto:nike_xp69@hotmail.com" target="blank" ><img align="center" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="mailto:nike_xp69@hotmail.com" height="60" width="60"  </a>
+  <a href="mailto:ControlCalidadIT@outlook.com" target="blank" ><img align="center" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="mailto:ControlCalidadIT@outlook.com" height="60" width="60"  </a>
       <a href="https://www.linkedin.com/in/jose-qatester" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png"  height="60" width="60"/></a>
     
 # 🔨Idiomas y Herramientas
