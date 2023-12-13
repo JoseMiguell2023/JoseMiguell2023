@@ -5,7 +5,7 @@
 <a href="https://github.com/JoseMiguell2023"><img src="https://i.postimg.cc/ydLC2WBf/banner.png" /></a>
 
 # 🐞Acerca de mí:
--👋 ¡Hola!, Mi nombre es Jose Miguel y soy QA tester <br>-👀 Tengo muchas ganas de encontrar trabajo en el actual campo y seguir adelante.<br>-🌱 Actualmente estoy estudiando en la escuela en línea GOIT como ingeniero de control de calidad (ya estoy en la recta final de esta formacion)..<br> 💞️ Busco colaborar en empresas TI.<br>-📄 Conoce [Mis Proyectos:] <br>-😎 Mi frase es "Nunca es demasiado tarde, nunca es demasiado tarde para empezar de nuevo, nunca es demasiado tarde para ser feliz"<br>
+-👋 ¡Hola!, Mi nombre es Jose Miguel y soy QA Engineer <br>-👀 Tengo muchas ganas de encontrar trabajo en el actual campo y seguir adelante.<br>-🌱 Actualmente estoy estudiando en la escuela en línea GOIT como ingeniero de control de calidad (ya estoy en la recta final de esta formacion)..<br> 💞️ Busco colaborar en empresas TI.<br>-📄 Conoce [Mis Proyectos:] <br>-😎 Mi frase es "Nunca es demasiado tarde, nunca es demasiado tarde para empezar de nuevo, nunca es demasiado tarde para ser feliz"<br>
 
 # 🕵🏻‍♀️Mis Proyectos/Experiencia:
 
