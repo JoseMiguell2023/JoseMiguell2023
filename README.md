@@ -37,7 +37,7 @@
 🧠Pensamiento crítico. 
 ✅Autodidacta. 
 📚Aprendizaje Continuo.
-# <a href="https://github.com/JoseMiguell2023"><img src="https://camo.githubusercontent.com/c0a1ff533f2a741658eb8a0551bd70fb541825ef55f07e8c761aa2795d2e0dfd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" height="40" width="40" /></a> Estadisticas de GitHub:
+# Estadisticas de GitHub:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JoseMiguell2023&theme=yeblu&hide_border=true)<br/>
 
 
